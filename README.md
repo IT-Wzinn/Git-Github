@@ -1,4 +1,4 @@
-# 🔧 git-practice
+# 🔧 Git-Practice
 
 > Repo học các lệnh Git và thao tác với GitHub từ cơ bản đến nâng cao.
 
