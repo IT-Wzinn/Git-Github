@@ -121,14 +121,8 @@ git pull --rebase origin main        # Pull và rebase thay vì merge
 
 ---
 
-## 📸 Demo
-
-<!-- Thêm GIF hoặc screenshot vào đây -->
-<!-- Kéo thả file vào editor trên GitHub để upload tự động -->
-
-> _Coming soon — sẽ thêm GIF demo sau khi có thêm nội dung_
-
----
+## 📸 Demo:
+[![Watch the demo](demo.png)](https://www.youtube.com/watch?v=HkdAHXoRtos&list=LL&index=1)
 
 ## 📚 Resources
 
