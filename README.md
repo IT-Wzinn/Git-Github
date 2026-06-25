@@ -24,6 +24,7 @@
 
 Đây là repo cá nhân dùng để luyện tập và ghi lại các câu lệnh Git, workflow thực tế khi làm việc với GitHub. Mục tiêu là nắm vững version control để áp dụng vào các dự án thực.
 
+![Demo](.png/023-1614681588418717257234-0-0-767-1366-crop-16146815915111444794187.webp)
 ---
 
 ## 🗂 Topics covered
@@ -122,7 +123,7 @@ git pull --rebase origin main        # Pull và rebase thay vì merge
 ---
 
 ## 📸 Demo:
-[![Watch the demo](demo.png)](https://www.youtube.com/watch?v=HkdAHXoRtos&list=LL&index=1)
+[![Watch the demo](.png/demo.png)](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
 ## 📚 Resources
 
