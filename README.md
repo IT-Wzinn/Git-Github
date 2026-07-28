@@ -1,12 +1,20 @@
 # 🔧 Git-Practice
-
-> Repo học các lệnh Git và thao tác với GitHub từ cơ bản đến nâng cao.
+> Repo learns Git commands and how to work with GitHub, from basic to advanced levels.
 
 ![Git](https://img.shields.io/badge/Git-2.x-F05032?style=flat&logo=git&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Learning](https://img.shields.io/badge/Type-Learning-4CAF50?style=flat)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=flat)
 
+---
+
+---
+
+## 📖 About
+
+Đây là repo cá nhân dùng để luyện tập và ghi lại các câu lệnh Git, workflow thực tế khi làm việc với GitHub. Mục tiêu là nắm vững version control để áp dụng vào các dự án thực.
+
+![Demo](.png/023-1614681588418717257234-0-0-767-1366-crop-16146815915111444794187.webp)
 ---
 
 ## 📋 Table of contents
@@ -18,14 +26,6 @@
 - [Demo](#-demo)
 - [Resources](#-resources)
 
----
-
-## 📖 About
-
-Đây là repo cá nhân dùng để luyện tập và ghi lại các câu lệnh Git, workflow thực tế khi làm việc với GitHub. Mục tiêu là nắm vững version control để áp dụng vào các dự án thực.
-
-![Demo](.png/023-1614681588418717257234-0-0-767-1366-crop-16146815915111444794187.webp)
----
 
 ## 🗂 Topics covered
 
